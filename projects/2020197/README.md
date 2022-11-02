@@ -60,3 +60,13 @@ ls,sudo,nano,vim,neofetch
 **Συνδέσμοι που αντλήθηκαν πληροφορίες:**
 
 **[Arch Linux: A ℂ𝕠𝕞𝕗𝕪 Install Guide](https://www.youtube.com/watch?v=68z11VAYMS8)** | **[Neofetch - Configuration and Customization!](https://www.youtube.com/watch?v=SC4Onk7HdkI)**
+
+<!-- Headings -->
+## **Συμμετοχικό περιεχόμενο A1/3 Παραδοτέο**
+
+|Περιγραφή||Repository Link||Netlify Link|Pull requests|
+|---||---||---||---|
+|ThinkPad images||[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad.jpg)+[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad-Thumb.jpg)|||||
+|ThinkPad||[ThinkPad.md](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/ThinkPad.md)|||||
+|Sony WalkMan images||[SonyWalkman](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman.jpg)+[SonyWalkmanThumb](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman-Thumb.jpg)||||
+|Sony WalkMan||[SonyWalkMan](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/SonyWalkMan.md)|||||
