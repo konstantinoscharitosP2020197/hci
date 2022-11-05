@@ -71,5 +71,15 @@ ls,sudo,nano,vim,neofetch
 |Sony WalkMan images|[SonyWalkman](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman.jpg)+[SonyWalkmanThumb](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman-Thumb.jpg)||||
 |Sony WalkMan|[SonyWalkMan](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/SonyWalkMan.md)|||||
 
+<!-- Headings -->
+## **Linux Install in HW/4 Παραδοτέο**
 
+Για 4 παραδοτέο πρέπει να κατεβάσω τα Arch Linux σε HW όπου αφού έκανα ένα usb stick σε bootable μέσω του rufus έκανα boot στο usb και κατέβασα τα linux με το arch install σε ένα δεύτερο usb stick και στην συνέχεια κατέβασα το neofetch ώστε να αποδείξω ότι τρέχω τα arch σε HW.
 
+**Asciinema rec:**[Παραδοτέο 4ο](https://asciinema.org/a/534639)
+**Εργαλεία που χρησιμοποιήθηκαν**
+
+sudo,asciinema,neofech,archinstall,rufus
+
+**Συνδέσμοι που αντλήθηκαν πληροφορίες:**
+[Bootable USB Flash Drive using Rufus (MBR/GPT, Legacy/UEFI)](https://www.youtube.com/watch?v=wZorsGx-t7Q)|[Archinstall - Arch Linux Made Easy](https://www.youtube.com/watch?v=G-mLyrHonvU)
