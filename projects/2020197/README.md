@@ -66,10 +66,10 @@ ls,sudo,nano,vim,neofetch
 
 | Περιγραφή | Repository Link | Netlify Link | Pull requests |
 | --- | --- | --- | --- |
-|ThinkPad images|[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad.jpg)+[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad-Thumb.jpg)|||
-|ThinkPad|[ThinkPad.md](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/ThinkPad.md)|||||
-|Sony WalkMan images|[SonyWalkman](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman.jpg)+[SonyWalkmanThumb](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman-Thumb.jpg)||||
-|Sony WalkMan|[SonyWalkMan](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/SonyWalkMan.md)|||||
+|ThinkPad images|[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad.jpg)+[ThinkPad Images](https://github.com/konstantinoscharitosP2020197/images/blob/master/ThinkPad-Thumb.jpg)||[merge](https://github.com/We-use-Arch-Linux-btww/images/pull/1)|
+|ThinkPad|[ThinkPad.md](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/ThinkPad.md)||[merge](https://github.com/We-use-Arch-Linux-btww/_gallery/pull/1)|
+|Sony WalkMan images|[SonyWalkman](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman.jpg)+[SonyWalkmanThumb](https://github.com/konstantinoscharitosP2020197/images/blob/master/SonyWalkman-Thumb.jpg)||[merge](https://github.com/We-use-Arch-Linux-btww/images/pull/1)|
+|Sony WalkMan|[SonyWalkMan](https://github.com/konstantinoscharitosP2020197/_gallery/blob/master/SonyWalkMan.md)||[merge](https://github.com/We-use-Arch-Linux-btww/_gallery/pull/1)|
 
 <!-- Headings -->
 ## **Linux Install in HW/4 Παραδοτέο**
